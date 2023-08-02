@@ -1,6 +1,6 @@
 # digital-clock-js
 
-- [Demo Project]( )
+- [Demo Project]( https://mahsabbpour.github.io/digital-clock-js/)
 
 - Developed by Mahsa Babapour
 
